@@ -1,0 +1,5 @@
+matplotlib
+beautifulsoup4
+pandas
+numpy
+lxml
